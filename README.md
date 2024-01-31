@@ -14,6 +14,14 @@
 
 ### Programming Language
 
+HTML, CSS
+
+JavaScript, TypeScript
+
+PHP, Ruby, Python
+
+Go, Rust
+
 ### Framework
 
 ### RDB / NoSQL
