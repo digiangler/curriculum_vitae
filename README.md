@@ -24,7 +24,15 @@ Go, Rust
 
 ### Framework
 
+React, Vue, Next.js, Nuxt.js
+
+Laravel, Ruby On Rails
+
 ### RDB / NoSQL
+
+MySQL, PostgreSQL
+
+MongoDB
 
 ### Cloud
 
