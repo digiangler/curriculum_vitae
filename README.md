@@ -14,25 +14,27 @@
 
 ### Programming Language
 
-HTML, CSS
+マークアップ言語：HTML, CSS
 
-JavaScript, TypeScript
+フロントエンド：JavaScript, TypeScript
 
-PHP, Ruby, Python
+バックエンド：PHP, Ruby, Python, C#
 
-Go, Rust
+勉強中：Java, Scala, Go, Rust, Swift, Kotlin, Dart
 
 ### Framework
 
-React, Vue, Next.js, Nuxt.js
+フロントエンド：React, Vue, Next.js, Nuxt.js
 
-Laravel, Ruby On Rails
+バックエンド：Laravel, Ruby On Rails, Django, Flask
+
+勉強中：Spring
 
 ### RDB / NoSQL
 
-MySQL, PostgreSQL
+RDBMS：MySQL, PostgreSQL
 
-MongoDB
+NoSQL：MongoDB, Redis
 
 ### Cloud
 
