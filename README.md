@@ -14,7 +14,7 @@
 
 ### Programming Language
 
-マークアップ言語：HTML, CSS
+マークアップ言語：HTML, CSS, Sass
 
 フロントエンド：JavaScript, TypeScript
 
@@ -24,9 +24,9 @@
 
 ### Framework
 
-フロントエンド：React, Vue, Next.js, Nuxt.js
+フロントエンド：React, Vue, Next.js, Nuxt.js, React Native, Tailswind CSS
 
-バックエンド：Laravel, Ruby On Rails, Django, Flask
+バックエンド：Laravel, Ruby On Rails, Django, Flask, Flutter
 
 勉強中：Spring
 
@@ -37,6 +37,12 @@ RDBMS：MySQL, PostgreSQL
 NoSQL：MongoDB, Redis
 
 ### Cloud
+
+AWS, Google Cloud Platform
+
+### Design
+
+Figma
 
 ### SaaS / PaaS / IaaS
 
