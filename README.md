@@ -4,6 +4,14 @@
 
 ## 基本情報
 
+X(旧：Twitter)：
+
+Instaglam：
+
+Qiita：
+
+Zenn：
+
 ---
 
 ## 概要
@@ -14,7 +22,7 @@
 
 ### Programming Language
 
-マークアップ言語：HTML, CSS, Sass
+マークアップ：HTML, CSS, Sass
 
 フロントエンド：JavaScript, TypeScript
 
