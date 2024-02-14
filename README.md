@@ -30,37 +30,39 @@ Zenn：
 
 ### Programming Language
 
-マークアップ：HTML, CSS, Sass
+マークアップ：HTML | CSS | Sass
 
-フロントエンド：JavaScript, TypeScript
+フロントエンド：JavaScript | TypeScript
 
-バックエンド：PHP, Ruby, Python, C#
+バックエンド：PHP | Ruby | Python | C#
 
-勉強中：Java, Scala, Go, Rust, Swift, Kotlin, Dart
+勉強中：Java | Scala | Go | Rust | Swift | Kotlin | Dart
 
 ### Framework
 
-フロントエンド：React, Vue, Next.js, Nuxt.js, React Native, Tailswind CSS
+フロントエンド：React | Vue | Next.js | Nuxt.js | React Native | Tailswind CSS
 
-バックエンド：Laravel, Ruby On Rails, Django, Flask, Flutter
+バックエンド：Laravel | Ruby On Rails | Django | Flask | Flutter
 
 勉強中：Spring
 
-### RDB / NoSQL
+### Database
 
-RDBMS：MySQL, PostgreSQL
+RDBMS：MySQL | PostgreSQL | Oracle | SQL Server
 
-NoSQL：MongoDB, Redis
+NoSQL：MongoDB | Redis
 
 ### Cloud
 
-AWS, Google Cloud Platform
+AWS | Google Cloud Platform
 
 ### Design
 
 Figma
 
 ### SaaS / PaaS / IaaS
+
+GitHub | GitHub Actions | BitBucket | CircleCI
 
 ### その他
 
