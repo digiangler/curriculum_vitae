@@ -34,13 +34,13 @@ Zenn：
 
 フロントエンド：JavaScript | TypeScript
 
-バックエンド：PHP | Ruby | Python | C#
+バックエンド：SQL | PHP | Ruby | Python | C# | Visual Basic | Delphi | Perl
 
 勉強中：Java | Scala | Go | Rust | Swift | Kotlin | Dart
 
-### Framework
+### Framework / Library / etc
 
-フロントエンド：React | Vue | Next.js | Nuxt.js | React Native | Tailswind CSS
+フロントエンド：React | Vue.js | Next.js | Nuxt.js | React Native | Tailswind CSS
 
 バックエンド：Laravel | Ruby On Rails | Django | Flask | Flutter
 
