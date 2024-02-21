@@ -60,21 +60,25 @@
 
 フロントエンド： JavaScript | TypeScript
 
-バックエンド： SQL | PHP | Ruby | Python | C# | Visual Basic | Delphi | Perl | COBOL
+バックエンド： SQL | PHP | Ruby | Python | C#
+
+レガシー： Visual Basic | Delphi | Perl | COBOL
 
 勉強中： Angular | R | Java | Scala | Go | Rust | Swift | Kotlin | Dart
 
 ### Framework / Library / etc
 
-フロントエンド： React | Vue.js | Next.js | Nuxt.js | React Native | Tailswind CSS | Bootstrap | MUI
+Node.js | Deno | Vite | Vitest
 
-バックエンド： Laravel | Ruby On Rails | Django | Flask | Flutter
+フロントエンド： Astro | React | Vue.js | Next.js | Nuxt.js | Vanilla | Solid | Svelte | GraphQL | Gatsby | Preact | Tailswind CSS | Bootstrap | MUI | WordPress | Storybook | shadcn
 
-勉強中： NestJS | Spring
+バックエンド： Laravel | Ruby On Rails | Django | Flask
+
+勉強中： Htmx | Hono | Waku | NestJS | Spring | React Native | Flutter
 
 ### Database
 
-RDBMS： MySQL | PostgreSQL | Oracle | SQL Server
+RDBMS： MySQL | PostgreSQL | Oracle | SQL Server | SQLite
 
 NoSQL： MongoDB | Redis
 
@@ -92,9 +96,13 @@ GitHub | GitHub Actions | BitBucket | CircleCI
 
 ### その他
 
-Linux | Ubuntu | Nginx
+OS： macOS | Windows  | Linux | Ubuntu
 
-Git | Node.js | Deno | Bun | pnpm | npm | yarn | asdf | Volta | Gem
+Server： Nginx
+
+Git | Bun | pnpm | npm | yarn | asdf | Volta | Gem | Prettier | ESLint
+
+Tools： Warp
 
 勉強中： Terraform
 
