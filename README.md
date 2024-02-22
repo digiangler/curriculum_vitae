@@ -56,7 +56,7 @@
 
 ### Programming Language
 
-マークアップ： HTML | CSS | Sass
+マークアップ： HTML5 | CSS3（Sass）
 
 フロントエンド： JavaScript | TypeScript
 
@@ -70,9 +70,9 @@
 
 Node.js | Deno | Vite | Vitest
 
-フロントエンド： Astro | React | Vue.js | Next.js | Nuxt.js | Vanilla | Solid | Svelte | GraphQL | Gatsby | Preact | Tailswind CSS | Bootstrap | MUI | WordPress | Storybook | shadcn
+フロントエンド： Astro | React | Vue.js | Next.js | Nuxt.js | Vanilla | Solid | Svelte | GraphQL | Gatsby | Preact | Tailswind CSS | Bootstrap | MUI | WordPress | Storybook | shadcn | Jest
 
-バックエンド： Laravel | Ruby On Rails | Django | Flask
+バックエンド： CakePHP | Laravel | Ruby On Rails | Django | Flask
 
 勉強中： Htmx | Hono | Waku | NestJS | Spring | React Native | Flutter
 
@@ -92,7 +92,7 @@ Figma
 
 ### SaaS / PaaS / IaaS
 
-GitHub | GitHub Actions | BitBucket | CircleCI
+Docker | GitHub | GitHub Actions | BitBucket | CircleCI
 
 ### その他
 
@@ -102,7 +102,9 @@ Server： Nginx
 
 Git | Bun | pnpm | npm | yarn | asdf | Volta | Gem | Prettier | ESLint
 
-Tools： Warp
+Tools： Warp | iTerm2 | Visual Studio Code | Cursor | IntelliJ IDEA（無料版）| Slack | Jira
+
+GTP： GitHub Copilot for Business | ChatGPT | Bing | Gemini
 
 勉強中： Terraform
 
