@@ -92,7 +92,7 @@ Figma
 
 ### SaaS / PaaS / IaaS
 
-Docker | GitHub | GitHub Actions | BitBucket | CircleCI | Prisma
+Docker | GitHub | GitHub Actions | BitBucket | CircleCI | Prisma | Vercel
 
 ### その他
 
