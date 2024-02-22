@@ -54,7 +54,7 @@
 
 ## スキル
 
-### Programming Language
+### 開発言語
 
 マークアップ： HTML5 | CSS3（Sass）
 
@@ -66,7 +66,7 @@
 
 勉強中： Angular | R | Java | Scala | Go | Rust | Swift | Kotlin | Dart
 
-### Framework / Library / etc
+### フレームワーク / ライブラリ / etc
 
 Node.js | Deno | Vite | Vitest
 
@@ -76,23 +76,23 @@ Node.js | Deno | Vite | Vitest
 
 勉強中： Htmx | Hono | Waku | NestJS | Spring | React Native | Flutter
 
-### Database
+### データベース
 
 RDBMS： MySQL | PostgreSQL | Oracle | SQL Server | SQLite
 
 NoSQL： MongoDB | Redis
 
-### Cloud
+### インフラ
 
 AWS | Google Cloud Platform
 
-### Design
+### デザイン
 
 Figma
 
 ### SaaS / PaaS / IaaS
 
-Docker | GitHub | GitHub Actions | BitBucket | CircleCI
+Docker | GitHub | GitHub Actions | BitBucket | CircleCI | Prisma
 
 ### その他
 
@@ -100,9 +100,9 @@ OS： macOS | Windows  | Linux | Ubuntu
 
 Server： Nginx
 
-Git | Bun | pnpm | npm | yarn | asdf | Volta | Gem | Prettier | ESLint
+Git | Bun | pnpm | npm | yarn | asdf | Volta | Gem | Prettier | ESLint | Husky
 
-Tools： Warp | iTerm2 | Visual Studio Code | Cursor | IntelliJ IDEA（無料版）| Slack | Jira
+Tools： Warp | iTerm2 | Visual Studio Code | Cursor | IntelliJ IDEA（無料版）| Slack | Discord | Jira
 
 GTP： GitHub Copilot for Business | ChatGPT | Bing | Gemini
 
@@ -111,6 +111,48 @@ GTP： GitHub Copilot for Business | ChatGPT | Bing | Gemini
 ---
 
 ## 主な業務経歴
+
+某IT企業
+
+システムエンジニア / プログラマ / ウェブデザイナー
+
+2000年4月 - 2011年1月（10年10か月）
+
+某メーカーの医療系システム開発業務と某メーカー携帯電話の評価・開発を始め、某メーカーの大規模サイトからベンチャー企業の小規模サイトのデザイン・コーディング業務と幅広く業務に携わりました。
+
+■ 過去の実績
+
+- 技術系（システム・ネットワーク）
+
+［業務内容］
+
+基本設計、詳細設計、プログラミング、単体 / 結合テスト、保守 / 運用、メンテンナンス
+
+--
+
+- クリエイティブ系（Web・ゲーム）
+
+［業務内容］
+
+デザイン / コーディング、画像 / 動画編集、ローカライズ、アンケートの送付（マクロ）、アクセス解析
+
+--
+
+フリーランス
+
+Full-Stack Web Developer / Web Designer / Writer / Angler
+
+2011年1月 - 現在
+
+ポートフォリオサイトやウェブアプリを作成しています。
+
+■ 過去の実績
+
+- 技術系（システム・ネットワーク）
+
+［業務内容］
+
+要求・要件定義、基本設計、詳細設計、プログラミング、単体 / 結合テスト、保守 / 運用、メンテンナンス
 
 ---
 
