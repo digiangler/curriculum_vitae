@@ -98,7 +98,7 @@ Docker | GitHub | GitHub Actions | BitBucket | CircleCI | Prisma | Vercel
 
 OS： macOS | Windows  | Linux | Ubuntu
 
-Server： Nginx
+Server： Nginx | Apache
 
 Git | Bun | pnpm | npm | yarn | asdf | Volta | Gem | Prettier | ESLint | Husky
 
