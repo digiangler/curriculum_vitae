@@ -102,7 +102,7 @@ Server： Nginx | Apache
 
 Git | Bun | pnpm | npm | yarn | asdf | Volta | Gem | Prettier | ESLint | Husky
 
-Tools： Warp | iTerm2 | Visual Studio Code | Cursor | IntelliJ IDEA（無料版）| Slack | Discord | Jira
+Tools： Warp | iTerm2 | Visual Studio Code | Cursor | IntelliJ IDEA（無料版）| LazyVim | Slack | Discord | Jira
 
 GTP： GitHub Copilot for Business | ChatGPT | Bing | Gemini
 
