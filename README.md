@@ -88,7 +88,7 @@ AWS | Google Cloud Platform
 
 ### デザイン
 
-Figma
+Figma | Affinity Photo | Affinity Designer | Affinity Publisher | Adobe Photoshop
 
 ### SaaS / PaaS / IaaS
 
