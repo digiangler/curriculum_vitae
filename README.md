@@ -90,11 +90,11 @@ AWS | Google Cloud Platform
 
 Figma | Affinity Photo | Affinity Designer | Affinity Publisher | Adobe Photoshop
 
-### SaaS / PaaS / IaaS
+### SaaS / PaaS / IaaS / その他
 
-Docker | GitHub | GitHub Actions | BitBucket | CircleCI | Prisma | Vercel
+Docker | GitHub | GitHub Actions | BitBucket | Vagrant | Heroku | CircleCI | Prisma | Vercel
 
-### その他
+勉強中： Terraform | Cloudflare | Azure | Kubernetes | Datadog
 
 OS： macOS | Windows  | Linux | Ubuntu
 
@@ -104,9 +104,7 @@ Git | Bun | pnpm | npm | yarn | asdf | Volta | Gem | Prettier | ESLint | Husky
 
 Tools： Warp | iTerm2 | Visual Studio Code | Cursor | IntelliJ IDEA（無料版）| LazyVim | Slack | Discord | Jira
 
-GTP： GitHub Copilot for Business | ChatGPT | Bing | Gemini
-
-勉強中： Terraform
+GTP： GitHub Copilot for Business | ChatGPT | Bing | Gemini | Claude
 
 ---
 
