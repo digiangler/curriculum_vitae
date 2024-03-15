@@ -92,7 +92,7 @@ Figma | Affinity Photo | Affinity Designer | Affinity Publisher | Adobe Photosho
 
 ### SaaS / PaaS / IaaS / その他
 
-Docker | GitHub | GitHub Actions | BitBucket | Vagrant | Heroku | CircleCI | Prisma | Vercel
+Docker | GitHub | GitHub Actions | BitBucket | Vagrant | GitLab | Heroku | CircleCI | Prisma | Vercel
 
 勉強中： Terraform | Cloudflare | Azure | Kubernetes | Datadog
 
