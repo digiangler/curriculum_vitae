@@ -100,9 +100,9 @@ OS： macOS | Windows  | Linux | Ubuntu
 
 Server： Nginx | Apache
 
-Git | Bun | pnpm | npm | yarn | asdf | Volta | Gem | Prettier | ESLint | Husky
+Homebrew | Git | Bun | pnpm | npm | yarn | asdf | Volta | Gem | Prettier | ESLint | Husky
 
-Tools： Warp | iTerm2 | Visual Studio Code | Cursor | IntelliJ IDEA（無料版）| LazyVim | Slack | Discord | Jira
+Tools： Warp | iTerm2 | Visual Studio Code | Cursor | IntelliJ IDEA（無料版）| LazyVim | Slack | Discord | Jira | Notion | Obsidian | Ulysses | zoom
 
 GTP： GitHub Copilot for Business | ChatGPT | Bing | Gemini | Claude
 
