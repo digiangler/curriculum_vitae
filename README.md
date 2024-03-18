@@ -88,7 +88,7 @@ AWS | Google Cloud Platform
 
 ### デザイン
 
-Figma | Affinity Photo | Affinity Designer | Affinity Publisher | Adobe Photoshop
+Figma | Affinity Photo | Affinity Designer | Affinity Publisher | Adobe Photoshop | Canva
 
 ### SaaS / PaaS / IaaS / その他
 
@@ -102,7 +102,7 @@ Server： Nginx | Apache
 
 Homebrew | Git | Bun | pnpm | npm | yarn | asdf | Volta | Gem | Prettier | ESLint | Husky
 
-Tools： Warp | iTerm2 | Visual Studio Code | Cursor | IntelliJ IDEA（無料版）| LazyVim | Slack | Discord | Jira | Notion | Obsidian | Ulysses | zoom
+Tools： Warp | iTerm2 | Visual Studio Code | Cursor | IntelliJ IDEA（無料版）| LazyVim | Slack | Discord | Jira | Teams | Notion | Obsidian | Ulysses | zoom
 
 GTP： GitHub Copilot for Business | ChatGPT | Bing | Gemini | Claude
 
