@@ -104,7 +104,7 @@ Homebrew | Git | Bun | pnpm | npm | yarn | asdf | Volta | Gem | Prettier | ESLin
 
 Tools： Warp | iTerm2 | Visual Studio Code | Cursor | IntelliJ IDEA（無料版）| LazyVim | Slack | Discord | Jira | Teams | Asana | Notion | Obsidian | Ulysses | zoom
 
-GTP： GitHub Copilot for Business | ChatGPT | Bing | Gemini | Claude
+GTP： GitHub Copilot for Business | ChatGPT | Gemini | Claude | Bing
 
 ---
 
@@ -116,7 +116,7 @@ GTP： GitHub Copilot for Business | ChatGPT | Bing | Gemini | Claude
 
 2000年4月 - 2011年1月（10年10か月）
 
-某メーカーの医療系システム開発業務と某メーカー携帯電話の評価・開発を始め、某メーカーの大規模サイトからベンチャー企業の小規模サイトのデザイン・コーディング業務と幅広く業務に携わりました。
+某メーカーの医療系システム開発業務と某メーカー携帯電話の評価・開発を始め、某メーカーの大規模サイトからベンチャー企業の小規模サイト、某著名人のホームページデザイン・コーディング業務と幅広く業務に携わりました。
 
 ■ 過去の実績
 
