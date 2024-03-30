@@ -70,7 +70,7 @@
 
 Node.js | Deno | Vite | Vitest
 
-フロントエンド： Astro | React | Vue.js | Next.js | Nuxt.js | Vanilla | Solid | Svelte | GraphQL | Gatsby | Preact | Tailswind CSS | Bootstrap | MUI | WordPress | Storybook | shadcn | Jest
+フロントエンド： Astro | React | Vue.js | Next.js | Nuxt.js | Vanilla | Solid | Svelte | GraphQL | Gatsby | Preact | Tailswind CSS | Chakra UI | Bootstrap | MUI | WordPress | Storybook | shadcn | Jest
 
 バックエンド： CakePHP | Laravel | Ruby On Rails | Django | Flask
 
