@@ -78,7 +78,7 @@ Node.js | Deno | Vite | Vitest
 
 ### データベース
 
-RDBMS： MySQL | PostgreSQL | Oracle | SQL Server | SQLite
+RDBMS： MySQL | PostgreSQL | Oracle Database | Microsoft SQL Server | SQLite
 
 NoSQL： MongoDB | Redis
 
