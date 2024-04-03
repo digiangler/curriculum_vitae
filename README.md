@@ -16,6 +16,8 @@
 
 目標： 長期的なサブスクリプション型ウェブサービス（アプリ）を作成してビジネスを軌道に乗せたい
 
+SNS:
+
 [X(旧：Twitter)](https://twitter.com/digiangler)
 
 [Instaglam](https://instagram.com/digi_angler)
@@ -84,7 +86,7 @@ NoSQL： MongoDB | Redis
 
 ### インフラ
 
-AWS | Google Cloud Platform
+勉強中： AWS | Google Cloud Platform | Azure
 
 ### デザイン
 
@@ -94,7 +96,7 @@ Figma | Affinity Photo | Affinity Designer | Affinity Publisher | Adobe Photosho
 
 Docker | GitHub | GitHub Actions | BitBucket | Vagrant | GitLab | Heroku | CircleCI | Prisma | Vercel | Firebase | Supabase | Expo
 
-勉強中： Terraform | Cloudflare | Azure | Kubernetes | Datadog
+勉強中： Terraform | Cloudflare | Kubernetes | Datadog
 
 OS： macOS | Windows  | Linux | Ubuntu
 
