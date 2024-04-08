@@ -104,7 +104,11 @@ Server： Nginx | Apache
 
 Homebrew | Git | Bun | pnpm | npm | yarn | asdf | Volta | Gem | Prettier | ESLint | Husky
 
-Tools： Warp | iTerm2 | Visual Studio Code | Cursor | IntelliJ IDEA（無料版）| LazyVim | Slack | Discord | Jira | Teams | Asana | Notion | Obsidian | Ulysses | zoom
+API： Postman | Rapid API
+
+Anaconda
+
+Tools： Warp | iTerm2 | Visual Studio Code | Cursor | IntelliJ IDEA（無料版）| NeoVim | LazyVim | Slack | Discord | Jira | Teams | Asana | Notion | Obsidian | Ulysses | zoom
 
 GTP： GitHub Copilot for Business | ChatGPT | Gemini | Claude | Bing
 
