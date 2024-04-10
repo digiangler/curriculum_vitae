@@ -90,11 +90,13 @@ NoSQL： MongoDB | Redis
 
 ### デザイン
 
-Figma | Affinity Photo | Affinity Designer | Affinity Publisher | Adobe Photoshop | Canva
+Figma | Affinity Photo | Affinity Designer | Affinity Publisher | Adobe Photoshop | Canva | MindNode
+
+勉強中： Affinity Photo 2（無料トライアル）| Affinity Designer 2（無料トライアル）| Affinity Publisher 2（無料トライアル）
 
 ### SaaS / PaaS / IaaS / その他
 
-Docker | GitHub | GitHub Actions | BitBucket | Vagrant | GitLab | Heroku | CircleCI | Prisma | Vercel | Firebase | Supabase | Expo
+Docker | GitHub | GitHub Actions | Sourcetree | BitBucket | Vagrant | GitLab | Heroku | CircleCI | Prisma | Vercel | Firebase | Supabase | Expo
 
 勉強中： Terraform | Cloudflare | Kubernetes | Datadog
 
@@ -108,9 +110,19 @@ API： Postman | Rapid API
 
 Anaconda
 
-Tools： Warp | iTerm2 | Visual Studio Code | Cursor | IntelliJ IDEA（無料版）| NeoVim | LazyVim | Slack | Discord | Jira | Teams | Asana | Notion | Obsidian | Ulysses | zoom
+Dev Tools： Warp | iTerm2 | Visual Studio Code | Cursor | IntelliJ IDEA（無料版）| NeoVim | LazyVim | TablePlus
+
+Task Tools： Todoist | TickTick | Slack | Discord | Jira | Asana | Telegram
+
+Writing Tools： Microsoft 365 | Google Documents | iWork | Notion | Obsidian | Ulysses | Craft | NotePlan
+
+Meeting Tools： zoom | Teams | Skype
+
+Mailer： Spark Mail
 
 GTP： GitHub Copilot for Business | ChatGPT | Gemini | Claude | Bing
+
+Others： RayCast | Alfred 5 | DeepL
 
 ---
 
