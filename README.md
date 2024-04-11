@@ -110,7 +110,7 @@ API： Postman | Rapid API
 
 Anaconda
 
-Dev Tools： Warp | iTerm2 | Visual Studio Code | Cursor | IntelliJ IDEA（無料版）| NeoVim | LazyVim | TablePlus
+Dev Tools： Warp | iTerm2 | Hyper | Visual Studio Code | Cursor | IntelliJ IDEA（無料版）| NeoVim | LazyVim | TablePlus
 
 Task Tools： Todoist | TickTick | Slack | Discord | Jira | Asana | Telegram
 
