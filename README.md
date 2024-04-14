@@ -70,7 +70,7 @@ SNS:
 
 ### フレームワーク / ライブラリ / etc
 
-Node.js | Deno | Vite | Vitest
+Node.js | Deno | Vite | Vitest | Zod
 
 フロントエンド： Astro | React | Vue.js | Next.js | Nuxt.js | Vanilla | Solid | Svelte | GraphQL | Gatsby | Preact | Tailswind CSS | Chakra UI | Bootstrap | MUI | WordPress | Storybook | shadcn | Jest
 
