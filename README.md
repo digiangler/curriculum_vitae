@@ -108,7 +108,7 @@ Homebrew | Git | Bun | pnpm | npm | yarn | asdf | Volta | Gem | Prettier | ESLin
 
 API： Postman | Rapid API
 
-Anaconda
+Anaconda | Jupyter Lab
 
 Dev Tools： Warp | iTerm2 | Hyper | Visual Studio Code | Cursor | IntelliJ IDEA（無料版）| NeoVim | LazyVim | TablePlus
 
