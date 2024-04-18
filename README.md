@@ -114,7 +114,7 @@ Dev Tools： Warp | iTerm2 | Hyper | Visual Studio Code | Cursor | IntelliJ IDEA
 
 Task Tools： Todoist | TickTick | Slack | Discord | Jira | Asana | Telegram
 
-Writing Tools： Microsoft 365 | Google Documents | iWork | Notion | Obsidian | Ulysses | Craft | NotePlan
+Writing Tools： Microsoft 365 | Google Documents | iWork | Sublime Text | Notion | Obsidian | Ulysses | Craft | NotePlan
 
 Meeting Tools： zoom | Teams | Skype
 
