@@ -72,7 +72,7 @@ SNS:
 
 Node.js | Deno | Vite | Vitest | Zod
 
-フロントエンド： Astro | React | Vue.js | Next.js | Nuxt.js | Vanilla | Solid | Svelte | GraphQL | Gatsby | Preact | Tailswind CSS | Chakra UI | Bootstrap | MUI | WordPress | Storybook | shadcn | Jest
+フロントエンド： Astro | React | Vue.js | Next.js | Nuxt.js | Vanilla | Solid | Svelte | GraphQL | Gatsby | Preact | Tailswind CSS | Chakra UI | Bootstrap | MUI | WordPress | Storybook | shadcn/ui | Jest
 
 バックエンド： CakePHP | Laravel | Ruby On Rails | Django | Flask
 
@@ -98,7 +98,7 @@ Figma | Affinity Photo | Affinity Designer | Affinity Publisher | Adobe Photosho
 
 Docker | GitHub | GitHub Actions | Sourcetree | BitBucket | Vagrant | GitLab | Heroku | CircleCI | Prisma | Drizzle ORM | Vercel | Firebase | Supabase | Expo
 
-勉強中： Terraform | Cloudflare | Kubernetes | Datadog
+勉強中： Terraform | Cloudflare | Kubernetes | Datadog | Stripe
 
 OS： macOS | Windows  | Linux | Ubuntu
 
