@@ -66,7 +66,7 @@ SNS:
 
 レガシー： Visual Basic | Delphi | Perl | COBOL
 
-勉強中： Angular | R | Java | Scala | Go | Rust | Swift | Kotlin | Dart
+勉強中： Angular | R | C | C++ | Java | Scala | Go | Rust | Swift | Kotlin | Dart
 
 ### フレームワーク / ライブラリ / etc
 
