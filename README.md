@@ -1,6 +1,9 @@
-# 職務経歴書
-
 ---
+title: curriculum_vitae
+output: pdf_document
+---
+
+# 職務経歴書
 
 ## 基本情報
 
@@ -94,7 +97,7 @@ Figma | Affinity Photo | Affinity Designer | Affinity Publisher | Adobe Photosho
 
 勉強中： Affinity Photo 2（無料トライアル）| Affinity Designer 2（無料トライアル）| Affinity Publisher 2（無料トライアル）
 
-### SaaS / PaaS / IaaS / その他
+### SaaS / PaaS / IaaS / その他 Tools
 
 Docker | GitHub | GitHub Actions | Sourcetree | BitBucket | Vagrant | GitLab | Heroku | CircleCI | Prisma | Drizzle ORM | Vercel | Firebase | Supabase | Expo
 
@@ -110,7 +113,7 @@ API： Postman | Rapid API
 
 Anaconda | Jupyter Lab
 
-Dev Tools： Warp | iTerm2 | Hyper | Visual Studio Code | Cursor | IntelliJ IDEA（無料版）| NeoVim | LazyVim | TablePlus
+Dev Tools： Zsh | fish | Warp | iTerm2 | Hyper | Visual Studio Code | Cursor | IntelliJ IDEA（無料版）| NeoVim | LazyVim | TablePlus
 
 Task Tools： Todoist | TickTick | Slack | Discord | Jira | Asana | Telegram
 
