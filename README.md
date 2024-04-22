@@ -5,7 +5,7 @@ output: pdf_document
 
 # 職務経歴書
 
-## 基本情報
+## 🐾 基本情報
 
 名前： 非公開
 
@@ -21,19 +21,19 @@ output: pdf_document
 
 SNS:
 
-[X(旧：Twitter)](https://twitter.com/digiangler)
+📍 [X(旧：Twitter)](https://twitter.com/digiangler)
 
-[Instaglam](https://instagram.com/digi_angler)
+📍 [Instaglam](https://instagram.com/digi_angler)
 
-[note](https://note.com/digiangler777)
+📍 [note](https://note.com/digiangler777)
 
-[Qiita](https://qiita.com/digiangler)
+📍 [Qiita](https://qiita.com/digiangler)
 
-[Zenn](https://zenn.dev/digiangler)
+📍 [Zenn](https://zenn.dev/digiangler)
 
 ---
 
-## デジアングラーの由来
+## 🔥 デジアングラーの由来
 
 デジタル（digital）とアングラー（angler）の造語です。
 
@@ -45,9 +45,9 @@ SNS:
 
 ---
 
-## 概要
+## ⚡ 概要
 
-北海道育ち。約8年間、関東にてシステムエンジニアとして働いていました。小さい頃からモノをつくるのが好きで、学生の頃からプログラミング言語を学ぶ。卒業後、マークアップエンジニアやシステムエンジニア、プログラマとして、某メーカーさんの組み込みシステム開発や、某メーカーさんの医療システム開発、某企業・著名人のホームページ作成と幅広く業務に携わる。
+🇯🇵 北海道育ち。約8年間、関東にてシステムエンジニアとして働いていました。小さい頃からモノをつくるのが好きで、学生の頃からプログラミング言語を学ぶ。卒業後、マークアップエンジニアやシステムエンジニア、プログラマとして、某メーカーさんの組み込みシステム開発や、某メーカーさんの医療システム開発、某企業・著名人のホームページ作成と幅広く業務に携わる。
 
 東日本大震災直後、「本当にやりたいこと」を実現するためにキャリアチェンジしようと脱サラを決意。独立後、セールスライティングのスキルと出会い、フリーランスとしてセールスライターやコンテンツライター、ウェブ系エンジニア、ウェブデザイナーなど、幅広く活動中。ライターは、ペンネーム”おおとろ”として活動しています。無類のコーヒー愛好家。
 
@@ -57,7 +57,7 @@ SNS:
 
 ---
 
-## スキル
+## 🚀 スキル
 
 ### 開発言語
 
@@ -129,7 +129,7 @@ Others： RayCast | Alfred 5 | DeepL
 
 ---
 
-## 主な業務経歴
+## 📝 主な業務経歴
 
 某IT企業
 
@@ -191,13 +191,13 @@ Full-Stack Web Developer / Web Designer / Writer / Angler
 
 ---
 
-## 座右の銘
+## 🗿 座右の銘
 
 継続は力なり
 
 ---
 
-## 好きな言葉 / 伝えたいこと
+## 📌 好きな言葉 / 伝えたいこと
 
 お客様（フォロワー）とは、内臓と内臓を擦れ合う関係を築いていければと思っております。
 
