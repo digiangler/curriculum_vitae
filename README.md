@@ -121,7 +121,7 @@ Writing Tools： Microsoft 365 | Google Documents | iWork | Sublime Text | Notio
 
 Meeting Tools： zoom | Teams | Skype
 
-Mailer： Spark Mail
+Mailer： Spark Mail | Microsoft Outlook | Mozilla Thunderbird | Becky! Internet Mail | Gmail
 
 GTP： GitHub Copilot for Business | ChatGPT | Gemini | Claude | Bing
 
