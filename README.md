@@ -71,6 +71,8 @@ SNS:
 
 勉強中： Angular | R | C | C++ | Java | Scala | Go | Rust | Swift | Kotlin | Dart
 
+--
+
 ### フレームワーク / ライブラリ / etc
 
 Node.js | Deno | Vite | Vitest | Zod
@@ -81,21 +83,29 @@ Node.js | Deno | Vite | Vitest | Zod
 
 勉強中： Htmx | Hono | Waku | NestJS | Spring | React Native | Flutter | Stream
 
+--
+
 ### データベース
 
 RDBMS： MySQL | PostgreSQL | Oracle Database | Microsoft SQL Server | SQLite
 
 NoSQL： MongoDB | Redis
 
+--
+
 ### インフラ
 
 勉強中： AWS | Google Cloud Platform | Azure
+
+--
 
 ### デザイン
 
 Figma | Affinity Photo | Affinity Designer | Affinity Publisher | Adobe Photoshop | Canva | MindNode
 
 勉強中： Affinity Photo 2（無料トライアル）| Affinity Designer 2（無料トライアル）| Affinity Publisher 2（無料トライアル）
+
+--
 
 ### SaaS / PaaS / IaaS / その他 Tools
 
