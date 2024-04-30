@@ -109,7 +109,7 @@ Figma | Affinity Photo | Affinity Designer | Affinity Publisher | Adobe Photosho
 
 ### SaaS / PaaS / IaaS / その他 Tools
 
-Docker | GitHub | GitHub Actions | Sourcetree | BitBucket | Vagrant | GitLab | Heroku | CircleCI | Prisma | Drizzle ORM | Vercel | Firebase | Supabase | Expo
+Docker | GitHub | GitHub Actions | Sourcetree | BitBucket | Vagrant | GitLab | Heroku | CircleCI | Prisma | Drizzle ORM | Vercel | Netlify | Firebase | Supabase | Expo
 
 勉強中： Terraform | Cloudflare | Kubernetes | Datadog | Stripe
 
