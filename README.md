@@ -137,7 +137,7 @@ Mailer： Spark Mail | Microsoft Outlook | Mozilla Thunderbird | Becky! Internet
 
 GTP： GitHub Copilot for Business | ChatGPT | Gemini | Claude | Copilot
 
-Others： RayCast | Alfred 5 | DeepL
+Others： RayCast | Alfred 5 | ATOK
 
 ---
 
