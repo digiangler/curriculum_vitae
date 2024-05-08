@@ -79,7 +79,7 @@ Node.js | Deno | Vite | Vitest | Zod
 
 フロントエンド： Express | Astro | React | Vue.js | Next.js | Nuxt.js | Vanilla | Solid | Svelte | GraphQL | Gatsby | Preact | Tailswind CSS | Chakra UI | Bootstrap | MUI | WordPress | Storybook | shadcn/ui | Jest
 
-バックエンド： CakePHP | Laravel | Ruby On Rails | Django | Flask
+バックエンド： CakePHP | Laravel | Ruby On Rails | Django | Flask | Auth.js | NextAuth.js
 
 勉強中： Htmx | Hono | Waku | NestJS | Spring | React Native | Flutter | Stream
 
