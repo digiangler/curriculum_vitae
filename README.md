@@ -103,7 +103,7 @@ NoSQL： MongoDB | Redis
 
 ### デザイン
 
-Figma | Affinity Photo | Affinity Designer | Affinity Publisher | Adobe Photoshop | Canva | MindNode
+Figma | Affinity Photo | Affinity Designer | Affinity Publisher | Adobe Photoshop | Canva | MindNode | Miro
 
 勉強中： Affinity Photo 2（無料トライアル）| Affinity Designer 2（無料トライアル）| Affinity Publisher 2（無料トライアル）
 
@@ -129,7 +129,7 @@ Dev Tools： Zsh | fish | Warp | iTerm2 | Hyper | Visual Studio Code | Cursor | 
 
 Task Tools： Todoist | TickTick | Slack | Discord | Jira | Asana | Telegram
 
-Writing Tools： Microsoft 365 | Google Documents | iWork | Sublime Text | Notion | Obsidian | Ulysses | Craft | NotePlan
+Writing Tools： Microsoft 365 | Google Documents | iWork | Sublime Text | Notion | Obsidian | Ulysses | Craft | NotePlan | Dynalist | Evernote
 
 Meeting Tools： zoom | Teams | Skype
 
