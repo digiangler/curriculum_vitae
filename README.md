@@ -63,7 +63,7 @@ SNS:
 
 ### 開発言語
 
-マークアップ： HTML5 | CSS3（Sass）
+マークアップ： HTML5 | CSS3（Sass）| Markdown
 
 フロントエンド： JavaScript | TypeScript
 
