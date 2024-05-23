@@ -131,6 +131,8 @@ Task Tools： Todoist | TickTick | Slack | Discord | Jira | Asana | Telegram
 
 Writing Tools： Microsoft 365 | Google Documents | iWork | Sublime Text | Notion | Obsidian | Ulysses | Craft | NotePlan | Dynalist | Evernote
 
+Marketing Tools： Statusbrew
+
 Meeting Tools： zoom | Teams | Skype
 
 Browser： Google Chrome | Brave Browser | Microsoft Edge | Safari | Arc
@@ -139,7 +141,7 @@ Mailer： Spark Mail | Microsoft Outlook | Mozilla Thunderbird | Becky! Internet
 
 GTP： GitHub Copilot for Business | ChatGPT（GPT-4o）| Gemini | Claude | Copilot
 
-Others： Statusbrew | RayCast | Alfred 5 | ATOK
+Others： RayCast | Alfred 5 | ATOK
 
 ---
 
