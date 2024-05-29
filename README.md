@@ -125,13 +125,13 @@ API： Postman | Rapid API
 
 Anaconda | Jupyter Lab
 
-Dev Tools： Zsh | fish | Warp | iTerm2 | Hyper | Visual Studio Code | Cursor | IntelliJ IDEA（無料版）| NeoVim | LazyVim | TablePlus
+Dev Tools： Zsh | fish | Warp | iTerm2 | Hyper | Xcode | Visual Studio Code | Cursor | IntelliJ IDEA（無料版）| NeoVim | LazyVim | TablePlus
 
-Task Tools： Todoist | TickTick | Slack | Discord | Jira | Asana | Telegram
+Task Tools： Chatwork | Todoist | TickTick | Slack | Discord | Jira | Asana | Telegram
 
 Writing Tools： Microsoft 365 | Google Documents | iWork | Sublime Text | Notion | Obsidian | Ulysses | Craft | NotePlan | Dynalist | Evernote
 
-Marketing Tools： Statusbrew
+Marketing Tools： Statusbrew | Google Analytics | Google AdSense | Google広告
 
 Meeting Tools： zoom | Teams | Skype
 
