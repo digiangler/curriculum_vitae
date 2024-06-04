@@ -175,7 +175,7 @@ Others： RayCast | Alfred 5 | ATOK
 
 フリーランス
 
-Full-Stack Web Developer / Web Designer / Writer / Angler
+（Full-Stack）Software Developer / Web Designer / Writer / Angler
 
 2011年1月 - 現在
 
