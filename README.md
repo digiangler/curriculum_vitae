@@ -1,8 +1,3 @@
----
-title: curriculum_vitae
-output: pdf_document
----
-
 # 職務経歴書
 
 ## 🐾 基本情報
