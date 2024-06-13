@@ -16,7 +16,7 @@
 
 SNS:
 
-📍 [X(旧：Twitter)](https://twitter.com/digiangler)
+📍 [X](https://twitter.com/digiangler)
 
 📍 [Instaglam](https://instagram.com/digi_angler)
 
