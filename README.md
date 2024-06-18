@@ -134,7 +134,7 @@ Browser： Google Chrome | Brave Browser | Microsoft Edge | Safari | Arc
 
 Mailer： Spark Mail | Microsoft Outlook | Mozilla Thunderbird | Becky! Internet Mail | Gmail
 
-GTP： GitHub Copilot for Business | ChatGPT（GPT-4o）| Gemini | Claude | Copilot
+GTP： GitHub Copilot for Business | ChatGPT（GPT-4o）| Gemini | Claude | Copilot | Perplexity
 
 Others： RayCast | Alfred 5 | ATOK
 
