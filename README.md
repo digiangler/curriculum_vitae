@@ -8,7 +8,7 @@
 
 ペンネーム： おおとろ
 
-肩書き： ソフトウェアエンジニア（Full-Stack Web Developer）
+肩書き： ソフトウェアエンジニア（Full-Stack Web Developer）、ウェブデザイナー（UX/UI）
 
 前職業： システムエンジニア兼プログラマ、ウェブデザイナー
 
