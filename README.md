@@ -20,6 +20,8 @@ SNS:
 
 📍 [Instaglam](https://instagram.com/digi_angler)
 
+📍 [Threads](https://www.threads.net/@digi_angler)
+
 📍 [note](https://note.com/digiangler777)
 
 📍 [Qiita](https://qiita.com/digiangler)
