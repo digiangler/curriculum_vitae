@@ -30,6 +30,8 @@ SNS:
 
 📍 [Dribbble](https://dribbble.com/digi-angler)
 
+📍 [LinkedIn](https://github.com/digiangler)
+
 ---
 
 ## 🔥 デジアングラーの由来
