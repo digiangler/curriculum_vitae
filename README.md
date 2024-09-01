@@ -247,7 +247,7 @@ Others： RayCast | Alfred 5 | ATOK
 - OS / WindowsXP
 - DB / Oracle 9i、10g
 - 言語 / VB6.0,  HTML, XHTML, DHTML, CSS, XML, SQL, PHP
-- Tool / Microsoft Office, Visual Studio, Photoshop, Acrobat, Crystal Reports, サイボウズOffice8, Eclipse
+- Tool / Microsoft Office, Visual Studio, Visio, Photoshop, Acrobat, Crystal Reports, サイボウズOffice8, Eclipse
 
 ---
 
