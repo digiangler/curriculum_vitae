@@ -78,71 +78,71 @@ SNS:
 
 ### フレームワーク / ライブラリ / etc
 
-Node.js | Deno | Vite | Vitest | Zod
+**Node.js | Deno | Vite | Vitest | Zod**
 
-フロントエンド： Express | Astro | React | Vue.js | Next.js | Nuxt.js | Vanilla | Solid | Svelte | GraphQL | Gatsby | Preact | Tailswind CSS | Chakra UI | Bootstrap | MUI | WordPress | Storybook | shadcn/ui | Jest
+フロントエンド： **Express | Astro | React | Vue.js | Next.js | Nuxt.js | Vanilla | Solid | Svelte | GraphQL | Gatsby | Preact | Tailswind CSS | Chakra UI | Bootstrap | MUI | WordPress | Storybook | shadcn/ui | Jest**
 
-バックエンド： CakePHP | Laravel | Ruby On Rails | Django | Flask | Auth.js | NextAuth.js
+バックエンド： **CakePHP | Laravel | Ruby On Rails | Django | Flask | Auth.js | NextAuth.js**
 
-勉強中： Htmx | Hono | Waku | NestJS | Spring | React Native | Flutter | Stream
+勉強中： **Htmx | Hono | Waku | NestJS | Spring | React Native | Flutter | Stream**
 
 --
 
 ### データベース
 
-RDBMS： MySQL | PostgreSQL | Oracle Database | Microsoft SQL Server | SQLite
+RDBMS： **MySQL | PostgreSQL | Oracle Database | Microsoft SQL Server | SQLite**
 
-NoSQL： MongoDB | Redis
+NoSQL： **MongoDB | Redis**
 
 --
 
 ### インフラ
 
-勉強中： AWS | Google Cloud Platform | Azure
+勉強中： **AWS | Google Cloud Platform | Azure**
 
 --
 
 ### デザイン
 
-Figma | Affinity Photo | Affinity Designer | Affinity Publisher | Adobe Photoshop | Canva | MindNode | Miro
+**Figma | Affinity Photo | Affinity Designer | Affinity Publisher | Adobe Photoshop | Canva | MindNode | Miro**
 
-勉強中： Affinity Photo 2（無料トライアル）| Affinity Designer 2（無料トライアル）| Affinity Publisher 2（無料トライアル）
+勉強中： **Affinity Photo 2（無料トライアル）| Affinity Designer 2（無料トライアル）| Affinity Publisher 2（無料トライアル）**
 
 --
 
 ### SaaS / PaaS / IaaS / その他 Tools
 
-Docker | GitHub | GitHub Actions | Sourcetree | BitBucket | Vagrant | GitLab | Heroku | CircleCI | Prisma | Drizzle ORM | Vercel | Netlify | Firebase | Supabase | Expo | Auth0
+**Docker | GitHub | GitHub Actions | Sourcetree | BitBucket | Vagrant | GitLab | Heroku | CircleCI | Prisma | Drizzle ORM | Vercel | Netlify | Firebase | Supabase | Expo | Auth0**
 
-勉強中： Terraform | Cloudflare | Kubernetes | Datadog | Stripe
+勉強中： **Terraform | Cloudflare | Kubernetes | Datadog | Stripe**
 
-OS： macOS | Windows  | Linux | Ubuntu
+OS： **macOS | Windows  | Linux | Ubuntu**
 
-Server： Nginx | Apache
+Server： **Nginx | Apache**
 
-Homebrew | Git | Bun | pnpm | npm | yarn | asdf | Volta | Gem | Prettier | ESLint | Husky
+**Homebrew | Git | Bun | pnpm | npm | yarn | asdf | Volta | Gem | Prettier | ESLint | Husky**
 
-API： Postman | Rapid API
+API： **Postman | Rapid API**
 
-Anaconda | Jupyter Lab
+**Anaconda | Jupyter Lab**
 
-Dev Tools： Zsh | fish | Warp | iTerm2 | Hyper | Xcode | Visual Studio Code | Cursor | IntelliJ IDEA（無料版）| NeoVim | LazyVim | TablePlus
+Dev Tools： **Zsh | fish | Warp | iTerm2 | Hyper | Xcode | Visual Studio Code | Cursor | IntelliJ IDEA（無料版）| NeoVim | LazyVim | TablePlus**
 
-Task Tools： Chatwork | Todoist | TickTick | Slack | Discord | Jira | Asana | Telegram
+Task Tools： **Chatwork | Todoist | TickTick | Slack | Discord | Jira | Asana | Telegram**
 
-Writing Tools： Microsoft 365 | Google Documents | iWork | Sublime Text | Notion | Obsidian | Ulysses | Craft | NotePlan | Dynalist | Evernote
+Writing Tools： **Microsoft 365 | Google Documents | iWork | Sublime Text | Notion | Obsidian | Ulysses | Craft | NotePlan | Dynalist | Evernote**
 
-Marketing Tools： Statusbrew | Google Analytics | Google AdSense | Google広告
+Marketing Tools： **Statusbrew | Google Analytics | Google AdSense | Google広告**
 
-Meeting Tools： zoom | Teams | Skype
+Meeting Tools： **zoom | Teams | Skype**
 
-Browser： Google Chrome | Brave Browser | Microsoft Edge | Safari | Arc
+Browser： **Google Chrome | Brave Browser | Microsoft Edge | Safari | Arc**
 
-Mailer： Spark Mail | Microsoft Outlook | Mozilla Thunderbird | Becky! Internet Mail | Gmail
+Mailer： **Spark Mail | Microsoft Outlook | Mozilla Thunderbird | Becky! Internet Mail | Gmail**
 
-GTP： GitHub Copilot for Business | ChatGPT（GPT-4o）| Gemini | Claude | Copilot | Perplexity
+GTP： **GitHub Copilot for Business | ChatGPT（GPT-4o）| Gemini | Claude | Copilot | Perplexity**
 
-Others： RayCast | Alfred 5 | ATOK
+Others： **RayCast | Alfred 5 | ATOK**
 
 ---
 
@@ -209,7 +209,7 @@ Others： RayCast | Alfred 5 | ATOK
 
 - OS / WindowsXP、2000、NT、9x
 - DB / Oracle 9i、10g、SQL Server 2000
-- 言語 / VB6.0,  HTML, XHTML, DHTML, CSS, SQL
+- 言語 / VB6.0, HTML, XHTML, DHTML, CSS, SQL
 - Tool / Microsoft Office, Visual Studio, Acrobat, Crystal Reports, Dreamweaver
 
 ---
@@ -248,7 +248,7 @@ Others： RayCast | Alfred 5 | ATOK
 
 - OS / WindowsXP
 - DB / Oracle 9i、10g
-- 言語 / VB6.0,  HTML, XHTML, DHTML, CSS, XML, SQL, PHP
+- 言語 / VB6.0, HTML, XHTML, DHTML, CSS, XML, SQL, PHP
 - Tool / Microsoft Office, Visual Studio, Visio, Photoshop, Acrobat, Crystal Reports, サイボウズOffice8, Eclipse
 
 ---
