@@ -64,15 +64,45 @@ SNS:
 
 ### 開発言語
 
-マークアップ： **HTML5 | CSS3（Sass）| Markdown**
+#### マークアップ
 
-フロントエンド： **JavaScript | TypeScript**
+- **HTML5**
+- **CSS3（Sass）**
+- **Markdown**
 
-バックエンド： **SQL | PHP | Ruby | Python | C#**
+#### フロントエンド
 
-レガシー： **Visual Basic | Delphi | Perl | COBOL**
+- **JavaScript**
+- **TypeScript**
 
-勉強中： **Angular | R | C | C++ | Java | Scala | Go | Rust | Swift | Kotlin | Dart**
+#### バックエンド
+
+- **SQL**
+- **PHP**
+- **Ruby**
+- **Python**
+- **C#**
+
+#### レガシー
+
+- **Visual Basic**
+- **Delphi**
+- **Perl**
+- **COBOL**
+
+#### 勉強中
+
+- **Angular**
+- **R**
+- **C**
+- **C++**
+- **Java**
+- **Scala**
+- **Go**
+- **Rust**
+- **Swift**
+- **Kotlin**
+- **Dart**
 
 --
 
