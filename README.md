@@ -1,5 +1,7 @@
 # 職務経歴書
 
+最終更新日： 2024/09/23
+
 ## 🐾 基本情報
 
 名前： 非公開
@@ -32,8 +34,6 @@ SNS:
 
 📍 [LinkedIn](https://github.com/digiangler)
 
----
-
 ## 🔥 デジアングラーの由来
 
 デジタル（digital）とアングラー（angler）の造語です。
@@ -44,8 +44,6 @@ SNS:
 
 このふたつの釣り師を融合し、『**言葉（フック）でお客さんを集めたい ＝ 言葉の釣り師**』になろうということで、「デジアングラー」と名付けました。
 
----
-
 ## ⚡ 概要
 
 🇯🇵 北海道育ち。約8年間、関東にてシステムエンジニアとして働いていました。小さい頃からモノをつくるのが好きで、学生の頃からプログラミング言語を学ぶ。卒業後、マークアップエンジニアやシステムエンジニア、プログラマとして、某メーカーさんの組み込みシステム開発や、某メーカーさんの医療システム開発、某企業・著名人のホームページ作成と幅広く業務に携わる。
@@ -55,8 +53,6 @@ SNS:
 現在は、ソフトウェアエンジニア（フルスタック開発者）として、さまざまな案件を好きな仲間と開発したり、オリジナルのウェブサイトやアプリをつくって運営すること（サブスク）も考えております。
 
 趣味は、ポートフォリオ作成、アウトドア（釣り、キャンプ）、珈琲、読書、音楽鑑賞。
-
----
 
 ## 🚀 スキル
 
@@ -162,61 +158,195 @@ SNS:
 
 ### データベース
 
-RDBMS： **MySQL | PostgreSQL | Oracle Database | Microsoft SQL Server | SQLite**
+#### RDBMS
 
-NoSQL： **MongoDB | Redis**
+- **MySQL**
+- **PostgreSQL**
+- **Oracle Database**
+- **Microsoft SQL Server**
+- **SQLite**
+
+#### NoSQL
+
+- **MongoDB**
+- **Redis**
 
 --
 
 ### インフラ
 
-勉強中： **AWS | Google Cloud Platform | Azure**
+#### 勉強中
+
+- **AWS**
+- **Google Cloud Platform**
+- **Azure**
 
 --
 
 ### デザイン
 
-**Figma | Affinity Photo | Affinity Designer | Affinity Publisher | Adobe Photoshop | Canva | MindNode | Miro**
+- **Figma**
+- **Affinity Photo**
+- **Affinity Designer**
+- **Affinity Publisher**
+- **Adobe Photoshop**
+- **Canva**
+- **MindNode**
+- **Miro**
 
-勉強中： **Affinity Photo 2（無料トライアル）| Affinity Designer 2（無料トライアル）| Affinity Publisher 2（無料トライアル）**
+#### 勉強中
+
+- **Affinity Photo 2 （無料トライアル）**
+- **Affinity Designer 2 （無料トライアル）**
+- **Affinity Publisher 2 （無料トライアル）**
 
 --
 
 ### SaaS / PaaS / IaaS / その他 Tools
 
-**Docker | GitHub | GitHub Actions | Sourcetree | BitBucket | Vagrant | GitLab | Heroku | CircleCI | Prisma | Drizzle ORM | Vercel | Netlify | Firebase | Supabase | Expo | Auth0**
+- **Docker**
+- **GitHub**
+- **GitHub Actions**
+- **Sourcetree**
+- **BitBucket**
+- **Vagrant**
+- **GitLab**
+- **Heroku**
+- **CircleCI**
+- **Prisma**
+- **Drizzle ORM**
+- **Vercel**
+- **Netlify**
+- **Firebase**
+- **Supabase**
+- **Expo**
+- **Auth0**
 
-勉強中： **Terraform | Cloudflare | Kubernetes | Datadog | Stripe**
+- **Homebrew**
+- **Git**
+- **Bun**
+- **pnpm**
+- **npm**
+- **yarn**
+- **asdf**
+- **Volta**
+- **Gem**
+- **Prettier**
+- **ESLint**
+- **Husky**
 
-OS： **macOS | Windows  | Linux | Ubuntu**
+- **Anaconda**
+- **Jupyter Lab**
 
-Server： **Nginx | Apache**
+#### 勉強中
 
-**Homebrew | Git | Bun | pnpm | npm | yarn | asdf | Volta | Gem | Prettier | ESLint | Husky**
+- **Terraform**
+- **Cloudflare**
+- **Kubernetes**
+- **Datadog**
+- **Stripe**
 
-API： **Postman | Rapid API**
+#### OS
 
-**Anaconda | Jupyter Lab**
+- **macOS**
+- **Windows**
+- **Linux**
+- **Ubuntu**
 
-Dev Tools： **Zsh | fish | Warp | iTerm2 | Hyper | Xcode | Visual Studio Code | Cursor | IntelliJ IDEA（無料版）| NeoVim | LazyVim | TablePlus**
+#### Server
 
-Task Tools： **Chatwork | Todoist | TickTick | Slack | Discord | Jira | Asana | Telegram**
+- **Nginx**
+- **Apache**
 
-Writing Tools： **Microsoft 365 | Google Documents | iWork | Sublime Text | Notion | Obsidian | Ulysses | Craft | NotePlan | Dynalist | Evernote**
+#### API
 
-Marketing Tools： **Statusbrew | Google Analytics | Google AdSense | Google広告**
+- **Postman**
+- **Rapid API**
 
-Meeting Tools： **zoom | Teams | Skype**
+#### Dev Tools
 
-Browser： **Google Chrome | Brave Browser | Microsoft Edge | Safari | Arc**
+- **Zsh**
+- **fish**
+- **Warp**
+- **iTerm2**
+- **Hyper**
+- **Xcode**
+- **Visual Studio Code**
+- **Cursor**
+- **IntelliJ IDEA （無料版）**
+- **NeoVim**
+- **LazyVim**
+- **TablePlus**
 
-Mailer： **Spark Mail | Microsoft Outlook | Mozilla Thunderbird | Becky! Internet Mail | Gmail**
+#### Task Tools
 
-GTP： **GitHub Copilot for Business | ChatGPT（GPT-4o）| Gemini | Claude | Copilot | Perplexity**
+- **Chatwork**
+- **Todoist**
+- **TickTick**
+- **Slack**
+- **Discord**
+- **Jira**
+- **Asana**
+- **Telegram**
 
-Others： **RayCast | Alfred 5 | ATOK**
+#### Writing Tools
 
----
+- **Microsoft 365**
+- **Google Documents**
+- **iWork**
+- **Sublime Text**
+- **Notion**
+- **Obsidian**
+- **Ulysses**
+- **Craft**
+- **NotePlan**
+- **Dynalist**
+- **Evernote**
+
+#### Marketing Tools
+
+- **Statusbrew**
+- **Google Analytics**
+- **Google AdSense**
+- **Google広告**
+
+#### Meeting Tools
+
+- **zoom**
+- **Teams**
+- **Skype**
+
+#### Browser
+
+- **Google Chrome**
+- **Brave Browser**
+- **Microsoft Edge**
+- **Safari**
+- **Sidekick**
+- **Arc**
+
+#### Mailer
+
+- **Spark Mail**
+- **Microsoft Outlook**
+- **Mozilla Thunderbird**
+- **Becky! Internet Mail**
+- **Gmail**
+
+#### GTP
+
+- **GitHub Copilot for Business**
+- **ChatGPT （GPT-4o）**
+- **Gemini**
+- **Claude**
+- **Copilot**
+- **Perplexity**
+
+#### Others
+
+- **RayCast**
+- **Alfred 5**
+- **ATOK**
 
 ## 📝 主な業務経歴
 
