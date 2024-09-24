@@ -62,29 +62,29 @@ SNS:
 
 #### マークアップ
 
-- **HTML5**
-- **CSS3（Sass）**
-- **Markdown**
+- **HTML5** | **★★★★★**
+- **CSS3（Sass）** | **★★★★★**
+- **Markdown** | **★★★★★**
 
 #### フロントエンド
 
-- **JavaScript**
-- **TypeScript**
+- **JavaScript** | **★★★★★**
+- **TypeScript** | **★★★★★**
 
 #### バックエンド
 
-- **SQL**
-- **PHP**
-- **Ruby**
-- **Python**
-- **C#**
+- **SQL** | **★★★★★**
+- **PHP** | **★★★★★**
+- **Ruby** | **★★★★☆**
+- **Python** | **★★★★★**
+- **C#** | **★★★☆☆**
 
 #### レガシー
 
-- **Visual Basic**
-- **Delphi**
-- **Perl**
-- **COBOL**
+- **Visual Basic** | **★★★★★**
+- **Delphi** | **★★★★☆**
+- **Perl** | **★★★★☆**
+- **COBOL** | **★★★★☆**
 
 #### 勉強中
 
