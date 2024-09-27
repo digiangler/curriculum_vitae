@@ -204,149 +204,149 @@ SNS:
 
 ### SaaS / PaaS / IaaS / その他 Tools
 
-- **Docker**
-- **GitHub**
-- **GitHub Actions**
-- **Sourcetree**
-- **BitBucket**
-- **Vagrant**
-- **GitLab**
-- **Heroku**
-- **CircleCI**
-- **Prisma**
-- **Drizzle ORM**
-- **Vercel**
-- **Netlify**
-- **Firebase**
-- **Supabase**
-- **Expo**
-- **Auth0**
+- **Docker** | **★★★★☆**
+- **GitHub** | **★★★★★**
+- **GitHub Actions** | **★★★★☆**
+- **Sourcetree** | **★★★★★**
+- **BitBucket** | **★★★★★**
+- **Vagrant** | **★★★★☆**
+- **GitLab** | **★★★☆☆**
+- **Heroku** | **★★★☆☆**
+- **CircleCI** | **★★★☆☆**
+- **Prisma** | **★★★★☆**
+- **Drizzle ORM** | **★★★★☆**
+- **Vercel** | **★★★★☆**
+- **Netlify** | **★★★★☆**
+- **Firebase** | **★★★★☆**
+- **Supabase** | **★★★★☆**
+- **Expo** | **★★★★☆**
+- **Auth0** | **★★★★☆**
 
-- **Homebrew**
-- **Git**
-- **Bun**
-- **pnpm**
-- **npm**
-- **yarn**
-- **asdf**
-- **Volta**
-- **Gem**
-- **Prettier**
-- **ESLint**
-- **Husky**
+- **Homebrew** | **★★★★★**
+- **Git** | **★★★★★**
+- **Bun** | **★★★★☆**
+- **pnpm** | **★★★★☆**
+- **npm** | **★★★★★**
+- **yarn** | **★★★★★**
+- **asdf** | **★★★★★**
+- **Volta** | **★★★★☆**
+- **Gem** | **★★★★☆**
+- **Prettier** | **★★★★★**
+- **ESLint** | **★★★★★**
+- **Husky** | **★★★★★**
 
-- **Anaconda**
-- **Jupyter Lab**
+- **Anaconda** | **★★★★☆**
+- **Jupyter Lab** | **★★★★☆**
 
 #### 勉強中
 
-- **Terraform**
-- **Cloudflare**
-- **Kubernetes**
-- **Datadog**
-- **Stripe**
+- **Terraform** | **★★★☆☆**
+- **Cloudflare** | **★★★☆☆**
+- **Kubernetes** | **★★★☆☆**
+- **Datadog** | **★★★☆☆**
+- **Stripe** | **★★★☆☆**
 
 #### OS
 
-- **macOS**
-- **Windows**
-- **Linux**
-- **Ubuntu**
+- **macOS** | **★★★★★**
+- **Windows** | **★★★★★**
+- **Linux** | **★★★★☆**
+- **Ubuntu** | **★★★★☆**
 
 #### Server
 
-- **Nginx**
-- **Apache**
+- **Nginx** | **★★★★☆**
+- **Apache** | **★★★★☆**
 
 #### API
 
-- **Postman**
-- **Rapid API**
+- **Postman** | **★★★★★**
+- **Rapid API** | **★★★★★**
 
 #### Dev Tools
 
-- **Zsh**
-- **fish**
-- **Warp**
-- **iTerm2**
-- **Hyper**
-- **Xcode**
-- **Visual Studio Code**
-- **Cursor**
-- **IntelliJ IDEA （無料版）**
-- **NeoVim**
-- **LazyVim**
-- **TablePlus**
+- **Zsh** | **★★★★★**
+- **fish** | **★★★★★**
+- **Warp** | **★★★★★**
+- **iTerm2** | **★★★★★**
+- **Hyper** | **★★★★★**
+- **Xcode** | **★★★☆☆**
+- **Visual Studio Code** | **★★★★★**
+- **Cursor** | **★★★★☆**
+- **IntelliJ IDEA （無料版）** | **★★★★☆**
+- **NeoVim** | **★★★★★**
+- **LazyVim** | **★★★★★**
+- **TablePlus** | **★★★★★**
 
 #### Task Tools
 
-- **Chatwork**
-- **Todoist**
-- **TickTick**
-- **Slack**
-- **Discord**
-- **Jira**
-- **Asana**
-- **Telegram**
+- **Chatwork** | **★★★★★**
+- **Todoist** | **★★★★★**
+- **TickTick** | **★★★★★**
+- **Slack** | **★★★★★**
+- **Discord** | **★★★★★**
+- **Jira** | **★★★★☆**
+- **Asana** | **★★★★☆**
+- **Telegram** | **★★★★★**
 
 #### Writing Tools
 
-- **Microsoft 365**
-- **Google Documents**
-- **iWork**
-- **Sublime Text**
-- **Notion**
-- **Obsidian**
-- **Ulysses**
-- **Craft**
-- **NotePlan**
-- **Dynalist**
-- **Evernote**
+- **Microsoft 365** | **★★★★★**
+- **Google Documents** | **★★★★★**
+- **iWork** | **★★★★★**
+- **Sublime Text** | **★★★★★**
+- **Notion** | **★★★★★**
+- **Obsidian** | **★★★★★**
+- **Ulysses** | **★★★★★**
+- **Craft** | **★★★★★**
+- **NotePlan** | **★★★★★**
+- **Dynalist** | **★★★★★**
+- **Evernote** | **★★★★★**
 
 #### Marketing Tools
 
-- **Statusbrew**
-- **Google Analytics**
-- **Google AdSense**
-- **Google広告**
+- **Statusbrew** | **★★★★★**
+- **Google Analytics** | **★★★★★**
+- **Google AdSense** | **★★★★★**
+- **Google広告** | **★★★★★**
 
 #### Meeting Tools
 
-- **zoom**
-- **Teams**
-- **Skype**
+- **zoom** | **★★★★★**
+- **Teams** | **★★★★★**
+- **Skype** | **★★★★★**
 
 #### Browser
 
-- **Google Chrome**
-- **Brave Browser**
-- **Microsoft Edge**
-- **Safari**
-- **Sidekick**
-- **Arc**
+- **Google Chrome** | **★★★★★**
+- **Brave Browser** | **★★★★★**
+- **Microsoft Edge** | **★★★★★**
+- **Safari** | **★★★★★**
+- **Sidekick** | **★★★★★**
+- **Arc** | **★★★★★**
 
 #### Mailer
 
-- **Spark Mail**
-- **Microsoft Outlook**
-- **Mozilla Thunderbird**
-- **Becky! Internet Mail**
-- **Gmail**
+- **Spark Mail** | **★★★★★**
+- **Microsoft Outlook** | **★★★★★**
+- **Mozilla Thunderbird** | **★★★★★**
+- **Becky! Internet Mail** | **★★★★★**
+- **Gmail** | **★★★★★**
 
 #### GTP
 
-- **GitHub Copilot for Business**
-- **ChatGPT （GPT-4o）**
-- **Gemini**
-- **Claude**
-- **Copilot**
-- **Perplexity**
+- **GitHub Copilot for Business** | **★★★★★**
+- **ChatGPT （GPT-4o）** | **★★★★★**
+- **Gemini** | **★★★★☆**
+- **Claude** | **★★★★☆**
+- **Copilot** | **★★★★☆**
+- **Perplexity** | **★★★★☆**
 
 #### Others
 
-- **RayCast**
-- **Alfred 5**
-- **ATOK**
+- **RayCast** | **★★★★★**
+- **Alfred 5** | **★★★★★**
+- **ATOK** | **★★★★★**
 
 ## 📝 主な業務経歴
 
