@@ -1,38 +1,56 @@
 # 職務経歴書
 
-最終更新日： 2024/11/10
+最終更新日： 2024/12/06
 
 ## 🐾 基本情報
 
-名前： 非公開（仕事場や交流の場で是非お会いしましょう！名刺交換しましょう！）
+### 📍 名前
 
-ハンドルネーム： **Digi-Angler（デジアングラー）**
+- 非公開（仕事場や交流の場で是非お会いしましょう！名刺交換しましょう！）
 
-ペンネーム： **おおとろ**
+### 📍 ハンドルネーム
 
-肩書き： **ソフトウェアエンジニア（Full-Stack Developer）、アプリケーションエンジニア、ウェブデザイナー（UX/UI）、ライター**
+- **Digi-Angler（デジアングラー）**
 
-前職業： **システムエンジニア兼プログラマ、ウェブデザイナー、セールスライター、ウェブライター**
+### 📍 ペンネーム
 
-目標： **長期的なサブスクリプション型ウェブサービス（アプリ）を作成してビジネスを軌道に乗せたい**
+- **おおとろ**
 
-SNS:
+### 📍 肩書き
 
-📍 [X](https://twitter.com/digiangler)
+- **ソフトウェアエンジニア（Full-Stack Developer）**
+- **アプリケーションエンジニア**
+- **ウェブデザイナー（UX/UI）**
+- **ライター**
 
-📍 [Instaglam](https://instagram.com/digi_angler)
+### 📍 前職業
 
-📍 [Threads](https://www.threads.net/@digi_angler)
+- **システムエンジニア兼プログラマ**
+- **ウェブデザイナー**
+- **セールスライター**
+- **ウェブライター**
 
-📍 [note](https://note.com/digiangler777)
+### 📍 目標
 
-📍 [Qiita](https://qiita.com/digiangler)
+- **長期的なサブスクリプション型ウェブサービス（アプリ）を作成してビジネスを軌道に乗せたい**
 
-📍 [Zenn](https://zenn.dev/digiangler)
+### 📍 SNS
 
-📍 [Dribbble](https://dribbble.com/digi-angler)
+- [X](https://twitter.com/digiangler)
 
-<!-- 📍 [LinkedIn](https://github.com/digiangler) -->
+- [Instagram](https://instagram.com/digi_angler)
+
+- [Threads](https://www.threads.net/@digi_angler)
+
+- [note](https://note.com/digiangler777)
+
+- [Qiita](https://qiita.com/digiangler)
+
+- [Zenn](https://zenn.dev/digiangler)
+
+- [Dribbble](https://dribbble.com/digi-angler)
+
+<!-- - [LinkedIn](https://github.com/digiangler) -->
 
 ## 🔥 デジアングラーの由来
 
@@ -170,7 +188,7 @@ SNS:
 | **GraphQL** | ★★★★☆ | 8年以上 |
 | **Gatsby** | ★★★★☆ | 8年以上 |
 | **Preact** | ★★★★☆ | 3年以上 |
-| **Tailswind CSS** | ★★★★★ | 3年以上 |
+| **Tailwind CSS** | ★★★★★ | 3年以上 |
 | **PlainCSS** | ★★★☆☆ | 3か月以上 |
 | **Chakra UI** | ★★★★☆ | 3年以上 |
 | **Bootstrap** | ★★★★★ | 5年以上 |
