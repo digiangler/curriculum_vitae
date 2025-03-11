@@ -36,7 +36,7 @@
 
 ### 📍 SNS
 
-- [X](https://twitter.com/digiangler)
+- [X](https://x.com/digiangler)
 
 - [Instagram](https://instagram.com/digi_angler)
 
