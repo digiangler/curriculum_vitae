@@ -38,6 +38,8 @@
 
 - [X](https://x.com/digiangler)
 
+- [Bluesky](https://bsky.app/profile/digiangler.bsky.social)
+
 - [Instagram](https://instagram.com/digi_angler)
 
 - [Threads](https://www.threads.net/@digi_angler)
